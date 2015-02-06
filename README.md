@@ -1,2 +1,2 @@
 # Update-Hosts
-Update hosts
+Update hosts file automatically. (Windows only)
